@@ -9,7 +9,7 @@
     <ul class="navbar-nav navbar-right ml-auto">
         <li class="dropdown">
             <a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle nav-link-lg nav-link-user">
-                <img alt="image" src="https://demo.getstisla.com/assets/img/avatar/avatar-1.png" width="30"
+                <img alt="image" src="{{asset('logo/smk.png')}}" width="30"
                     class="mr-1 rounded-circle">
                 <div class="d-sm-none d-lg-inline-block">{{ auth()->user()->name }}</div>
             </a>
