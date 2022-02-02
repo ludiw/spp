@@ -14,7 +14,7 @@
         "laravel-frontend-presets/tall": "^3.1",
         "laravel/framework": "^8.75",
         "laravel/tinker": "^2.5",
-        "livewire/livewire": "^2.4",
+        "livewire/livewire": "^2.10",
         "maatwebsite/excel": "^3.1",
         "nwidart/laravel-modules": "^8.2",
         "phpoffice/phpspreadsheet": "1.16.*",
