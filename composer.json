@@ -2,10 +2,7 @@
     "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
@@ -15,7 +12,7 @@
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel-frontend-presets/tall": "^3.1",
-        "laravel/framework": "^8.12",
+        "laravel/framework": "^8.75",
         "laravel/tinker": "^2.5",
         "livewire/livewire": "^2.4",
         "maatwebsite/excel": "^3.1",
